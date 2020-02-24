@@ -1,0 +1,26 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HundirLaFlota", "HundirLaFlota\HundirLaFlota.csproj", "{3824376A-84E1-4236-A1BE-EDA9A3E8037E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7D3CF1E6-4033-4CD1-95F5-10C50F0D716D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3824376A-84E1-4236-A1BE-EDA9A3E8037E}.Debug|x86.ActiveCfg = Debug|x86
+		{3824376A-84E1-4236-A1BE-EDA9A3E8037E}.Debug|x86.Build.0 = Debug|x86
+		{3824376A-84E1-4236-A1BE-EDA9A3E8037E}.Release|x86.ActiveCfg = Release|x86
+		{3824376A-84E1-4236-A1BE-EDA9A3E8037E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.StandardHeader = $2
+		$0.VersionControlPolicy = $3
+	EndGlobalSection
+EndGlobal
