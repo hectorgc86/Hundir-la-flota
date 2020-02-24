@@ -1,2 +1,2 @@
-# Hundir-la-flota
-Proyecto de consola en C#
+# Hundir la flota
+Proyecto de consola desarrollado en C#
